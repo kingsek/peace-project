@@ -15,7 +15,7 @@
         img {
             width: 100%;
             height: 100vh;
-            object-fit: cover;
+            object-fit: cover; 
 
             /* Smooth zoom effect */
             animation: zoom 10s ease-in-out infinite alternate;
